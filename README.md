@@ -1,4 +1,4 @@
-
+<h1>supplier Quality Improvement Through Auditing and Performance Monitoring</h1>
 
    - <b>Role: Lead Auditor</b>
    - <b>Project Focus: Supplier quality Improvement</b>
@@ -17,4 +17,10 @@
    - <b>Enhanced Supplier Performance: By tracking KPIs and continuously evaluating supplier processes, I facilitated improvements in delivery times, product consistency, and defect rates</b>
    - <b>Improved Product Quality: The implementation of corrective actions and continuous performance evaluations directly led to an improvement in product quality, with fewer reworks and returns, positively impacting customer satisfaction and brand reputation.</b>
 <p align="center"><br/>
-<img src="https://imgur.com/0JVVrWL.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0JVVrWL.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+Skills Demonstrated:
+   - <b>Auditing Expertise on ISO 9001:2015 and IATF 16949 QMS standards.</b>
+   - <b>Data Analysis & KPI Management</b>
+   - <b>Problem Solving & Continuous Improvement</b>
+   - <b>Leadership & cross-functional team collaboration</b>
